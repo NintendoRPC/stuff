@@ -1,22 +1,25 @@
 {
   "nintendo-switch": [
     {
-      "name": "",
-      "image": "",
+      "id": "",
+      "name": "Default",
+      "image": "nintendo-switch",
       "imageLink": ""
     }
   ],
   "wii-u": [
     {
-      "name": "",
-      "image": "",
+      "id": "",
+      "name": "Default",
+      "image": "wii-u",
       "imageLink": ""
     }
   ],
   "nintendo-ds": [
     {
-      "name": "",
-      "image": "",
+      "id": "",    
+      "name": "Default",
+      "image": "nintendo-ds",
       "imageLink": ""
     }
   ]
