@@ -4,7 +4,7 @@
       "id": "",
       "name": "Default",
       "image": "nintendo-switch",
-      "imageLink": ""
+      "imageLink": "https://raw.githubusercontent.com/NintendoRPC/stuff/main/images/nintendo-switch.png"
     }
   ],
   "wii-u": [
@@ -12,7 +12,7 @@
       "id": "",
       "name": "Default",
       "image": "wii-u",
-      "imageLink": ""
+      "imageLink": "https://raw.githubusercontent.com/NintendoRPC/stuff/main/images/wii-u.png"
     }
   ],
   "nintendo-ds": [
@@ -20,7 +20,7 @@
       "id": "",    
       "name": "Default",
       "image": "nintendo-ds",
-      "imageLink": ""
+      "imageLink": "https://raw.githubusercontent.com/NintendoRPC/stuff/main/images/nintendo-ds.png"
     }
   ]
 }
