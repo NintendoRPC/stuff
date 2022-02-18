@@ -1,5 +1,5 @@
 {
-  "nintendo-switch": [
+  "nintendoSwitch": [
     {
       "id": "944228740788438460",
       "name": "Default",
@@ -7,7 +7,7 @@
       "imageLink": "https://raw.githubusercontent.com/NintendoRPC/stuff/main/images/nintendo-switch/nintendo-switch.png"
     }
   ],
-  "wii-u": [
+  "wiiU": [
     {
       "id": "942075958482071702",
       "name": "Default",
@@ -15,7 +15,7 @@
       "imageLink": "https://raw.githubusercontent.com/NintendoRPC/stuff/main/images/wii-u/wii-u.png"
     }
   ],
-  "nintendo-ds": [
+  "nintendoDs": [
     {
       "id": "944228893156597771",    
       "name": "Default",
