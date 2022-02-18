@@ -1,26 +1,26 @@
 {
   "nintendo-switch": [
     {
-      "id": "",
+      "id": "944228740788438460",
       "name": "Default",
       "image": "nintendo-switch",
-      "imageLink": "https://raw.githubusercontent.com/NintendoRPC/stuff/main/images/nintendo-switch.png"
+      "imageLink": "https://raw.githubusercontent.com/NintendoRPC/stuff/main/images/nintendo-switch/nintendo-switch.png"
     }
   ],
   "wii-u": [
     {
-      "id": "",
+      "id": "942075958482071702",
       "name": "Default",
       "image": "wii-u",
-      "imageLink": "https://raw.githubusercontent.com/NintendoRPC/stuff/main/images/wii-u.png"
+      "imageLink": "https://raw.githubusercontent.com/NintendoRPC/stuff/main/images/wii-u/wii-u.png"
     }
   ],
   "nintendo-ds": [
     {
-      "id": "",    
+      "id": "944228893156597771",    
       "name": "Default",
       "image": "nintendo-ds",
-      "imageLink": "https://raw.githubusercontent.com/NintendoRPC/stuff/main/images/nintendo-ds.png"
+      "imageLink": "https://raw.githubusercontent.com/NintendoRPC/stuff/main/images/nintendo-ds/nintendo-ds.png"
     }
   ]
 }
